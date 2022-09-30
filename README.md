@@ -6,5 +6,5 @@
 <h3> 3. Double click the famous person's name on the highlighted line and type your name </h3>
 <img src = "https://iotvnaw69daj.i.optimole.com/w:870/h:400/q:mauto/rt:fill/g:ce/f:avif/https://wpshout.com/wp-content/uploads/2014/01/devtools-dom-inspector.png">
 <p>Congratulations! You have hacked Google and your name is now on the famous person's results page. But, you'll notice that as soo as you reload your name will disappear. That's because we weren't actually changing the website, we were only changing what we see on our computers. If you want to <strong>learn how to hack for real</strong> get into white hat hacking, aka !
-[bounty hunting.]("https://hackerone.com/bug-bounty-programs")</p>
+[bounty hunting]("https://hackerone.com/bug-bounty-programs")</p>
 <hr/>
